@@ -3,6 +3,16 @@ Ansible Postfix Relay
 
 Ansible role to configure mail relay to send mails from server / host
 
+Supported / Tested OS
+---------------------
+
+- CentOS 7 / 8
+- RHEL 7 / 8
+- Fedora 32
+- Debian 10
+- Ubuntu 18.04 / 20.04
+- FreeBSD 11 / 12
+
 Requirements
 ------------
 
